@@ -89,10 +89,6 @@ The steps for this Challenge are divided into the following sections:
 
 ### Step 3: Inspect the Transaction on Etherscan
 
-##### Send a transaction using the Fintech Finder app
-
-
-https://user-images.githubusercontent.com/80833988/128267117-7269b2d5-7874-43db-8938-e904530ff639.mov
 
 
 
