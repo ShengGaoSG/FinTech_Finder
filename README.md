@@ -13,16 +13,10 @@
 
 
 ## Table of content
-- [Overview of the project](https://github.com/nataliaburrey/Paying_Salary_With_Crypto#overview-of-the-project) 
-- [Project goals](https://github.com/nataliaburrey/Paying_Salary_With_Crypto#project-goals)
-- [Project steps](https://github.com/nataliaburrey/Paying_Salary_With_Crypto#project-steps)
-- [Software version control](https://github.com/nataliaburrey/Paying_Salary_With_Crypto#software-version-control)
-    - [Libraries](https://github.com/nataliaburrey/Paying_Salary_With_Crypto#libraries)
-    - [Work with GitHub](https://github.com/nataliaburrey/Paying_Salary_With_Crypto#work-with-github)
-    - [How to install](https://github.com/nataliaburrey/Paying_Salary_With_Crypto#how-to-install)
-    - [Run Streamlit](https://github.com/nataliaburrey/Paying_Salary_With_Crypto#run-streamlit)
-- [Helps recruiters](https://github.com/nataliaburrey/Paying_Salary_With_Crypto#helps-recruiters)
-- [License](https://github.com/nataliaburrey/blockchain_based_ledger#license)
+- [Overview of the project](https://github.com/ShengGaoSG/Paying_Salary_With_Crypto#overview-of-the-project) 
+- [Project goals](https://github.com/ShengGaoSG/Paying_Salary_With_Crypto#project-goals)
+- [Project steps](https://github.com/ShengGaoSG/Paying_Salary_With_Crypto#project-steps)
+
 
 
 
@@ -156,51 +150,4 @@ from typing import Any, List
 
 
 
-### Work with GitHub
-* Repository created on GitHub
-* Files were  committed using command line
-* Our repository is organized, and includes Resources folder with CSV  project files, 
-* Jupyter Notebook with code runs without errors.
-* Answers on nesassary questions are included
 
-### How to install
-
-* Save remote repo from GitHub to your computer (Desktop): in Terninal type:
-
-```
-cd desktop
-
-git clone https://github.com/nataliaburrey/Paying_Salary_With_Crypto.git
-```
-
-now you can find the repo Paying_Salary_With_Crypto on your desktop
-
-
-
-
-### Run streamlit
-
-1. In the terminal, navigate to the repository folder
-
-2. In the terminal, run the Streamlit application by running the command
-
-```
-streamlit run fintech_finder.py
-
-```
-
-
-
-## Helps recruiters
-
-The project was created in collaboration with Berkeley Fintech Bootcamp team
-
-
-## License
-
-[MIT](https://github.com/nataliaburrey/Paying_Salary_With_Crypto/blob/main/LICENSE)
-
-
-
-📔 Contact me: 
-📩 nataliaburrey@gmail.com
